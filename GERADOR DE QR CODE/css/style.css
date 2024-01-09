@@ -11,6 +11,7 @@ body {
     justify-content: center;
     min-height: 100vh;
     background-image: url(../img/sunrise-1014712_1920.jpg);
+    background-position: center;
 }
 
 /* Container */
